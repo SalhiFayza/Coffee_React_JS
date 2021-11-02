@@ -15,37 +15,37 @@ const Services = () => {
                    <div className="box">
                        <i className="fas fa-code"></i>
                        <h3>web design</h3>
-                       <p>my name is Salhi Fayza & i am a font-end developer</p>
+                       <p>my name is Salhi Fayza & i am a front-end developer</p>
                    </div>
 
                    <div className="box">
                        <i className="fas fa-paint-brush"></i>
                        <h3>graphic design</h3>
-                       <p>my name is Salhi Fayza & i am a font-end developer</p>
+                       <p>my name is Salhi Fayza & i am a front-end developer</p>
                    </div>
 
                    <div className="box">
                        <i className="fas fa-mobile"></i>
                        <h3>responsive design</h3>
-                       <p>my name is Salhi Fayza & i am a font-end developer</p>
+                       <p>my name is Salhi Fayza & i am a front-end developer</p>
                    </div>
 
                    <div className="box">
                        <i className="fas fa-bullhorn"></i>
                        <h3>digital marketing</h3>
-                       <p>my name is Salhi Fayza & i am a font-end developer</p>
+                       <p>my name is Salhi Fayza & i am a front-end developer</p>
                    </div>
 
                    <div className="box">
                        <i className="fas fa-search-dollar"></i>
                        <h3>SEO marketing</h3>
-                       <p>my name is Salhi Fayza & i am a font-end developer</p>
+                       <p>my name is Salhi Fayza & i am a front-end developer</p>
                    </div>
 
                    <div className="box">
                        <i className="fab fa-wordpress"></i>
                        <h3>wordpress</h3>
-                       <p>my name is Salhi Fayza & i am a font-end developer</p>
+                       <p>my name is Salhi Fayza & i am a front-end developer</p>
                    </div>
 
                </div>
