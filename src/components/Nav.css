@@ -1,0 +1,51 @@
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background: #fff;
+    width: 30rem;
+    border-right: .1rem solid rgb(22, 19, 19);
+    height: 100%;
+    padding: 2rem;
+    text-align: center;
+}
+
+.header .user img {
+    margin: 1rem 0;
+    border: 0.5rem solid transparent;
+    border-radius: 50%;
+    height: 18rem;
+    width: 18rem;
+    box-shadow: -.4rem -.4rem 1rem rgb(99, 87, 170);;
+}
+
+.header .user h3 {
+    color: rgb(22, 19, 19);
+    font-size: 2.5rem;
+}
+
+.header .user p {
+    color: rgb(201, 163, 231);
+    font-size: 1.7rem;
+}
+
+.header .navbar {
+    padding-top: 0.2rem;
+}
+
+.header .navbar a {
+    display: block;
+    margin: 1.5rem 0;
+    padding: .7rem;
+    border-radius: 5rem;
+    font-size: 2rem;
+    box-shadow: -.4rem -.4rem 1rem rgb(99, 87, 170);
+    color: rgb(22, 19, 19);
+}
+
+.header .navbar a:hover {
+    box-shadow: -.4rem -.4rem 1rem rgb(99, 87, 170) inset;;
+    color: rgb(201, 163, 231);
+}
